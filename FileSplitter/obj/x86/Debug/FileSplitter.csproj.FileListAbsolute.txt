@@ -1,0 +1,7 @@
+D:\Kshitij\Softwares\FileSplitter\FileSplitter\bin\Debug\FileSplitter.exe
+D:\Kshitij\Softwares\FileSplitter\FileSplitter\bin\Debug\FileSplitter.pdb
+D:\Kshitij\Softwares\FileSplitter\FileSplitter\obj\x86\Debug\FileSplitter.Form1.resources
+D:\Kshitij\Softwares\FileSplitter\FileSplitter\obj\x86\Debug\FileSplitter.Properties.Resources.resources
+D:\Kshitij\Softwares\FileSplitter\FileSplitter\obj\x86\Debug\FileSplitter.csproj.GenerateResource.Cache
+D:\Kshitij\Softwares\FileSplitter\FileSplitter\obj\x86\Debug\FileSplitter.exe
+D:\Kshitij\Softwares\FileSplitter\FileSplitter\obj\x86\Debug\FileSplitter.pdb
